@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.6rem;
+  color: #fff;
+  text-shadow: 0 0 4px #fff;
+  margin: 20px auto;
+}
+
+header {
+  border-bottom: 2px solid #fff;
+}
+
+.content {
+  background-image: linear-gradient(rgba(128, 128, 128, 0.2), rgba(128, 128, 128, 0.2)), url("NNNNMMMM8888.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  width: 100%;
+  height: auto;
+  margin: 15px 0;
+  padding: 15px;
+  border-radius: 7px;
+}
+
+p {
+  color: #fff;
+  font-size: 1.22rem;
+  margin: 15px auto;
+  text-align: center;
+}
+
+h2 {
+  color: yellow;
+  font-size: 1.8rem;
+  margin: 15px auto;
+  text-align: center;
+}
+
+.titles {
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+  background-color: red;
+  margin: 20px auto;
+  padding: 13px auto;
+  border-radius: 5px;
+}
+
+video, audio {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 7px;
+  margin: 20px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.parrafo {
+  color: red;
+}
+
+footer {
+  margin-top: 30px;
+  border-top: 2px solid #fff;
+  text-align: center;
+  padding-top: 15px;
+}
